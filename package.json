@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "set NODE_ENV=test && node ./jungo/app.js"
+    "start": "set NODE_ENV=production && node ./jungo/app.js"
   },
   "author": "Petr Chalov",
   "license": "ISC",
