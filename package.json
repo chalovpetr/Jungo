@@ -1,0 +1,18 @@
+{
+  "name": "jungo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=test && node ./jungo/app.js"
+  },
+  "author": "Petr Chalov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "connect-busboy": "0.0.2",
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "response-time": "^2.3.2"
+  }
+}

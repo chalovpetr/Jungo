@@ -1,0 +1,6 @@
+{
+  "port": 8001,
+  "download_timeout": 10,
+  "bulb_url": "http://88.99.174.234:9090",
+  "bulb_response_timeout": 5
+}
